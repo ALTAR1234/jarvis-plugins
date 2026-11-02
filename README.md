@@ -1,6 +1,6 @@
 # Jarvis plugins
 
-Plugins that let the J.A.R.V.I.S. assistant use Listener, Gamer, Weber, Streamer and Socialer: play music, open games, browse, watch shows, check, read and send messages, and see/use app windows.
+Plugins that let the J.A.R.V.I.S. assistant use Listener, Gamer, Weber and Streamer: play music, open games, browse, watch shows, and see/use app windows.
 
 ## Run
 
